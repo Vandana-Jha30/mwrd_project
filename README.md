@@ -280,8 +280,8 @@ MWRD/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/your-username/MWRD.git
-cd MWRD
+git clone https://github.com/Vandana-Jha30/mwrd_project.git
+cd mwrd_project
 ```
 
 ---
