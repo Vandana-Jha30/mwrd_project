@@ -104,9 +104,6 @@ Benefits:
 - Improved perceptual realism
 - Reduced artifacts
 
-<p align="center">
-  <img src="assets/ddpm.png" width="75%">
-</p>
 
 ---
 
