@@ -1,0 +1,14 @@
+# Core dependencies
+torch>=1.12
+torchvision
+numpy
+Pillow
+matplotlib
+scikit-image
+tqdm
+kaggle
+pytorch-lightning
+pytorch-wavelets
+pandas
+kornia
+
