@@ -370,7 +370,7 @@ Indian Institute of Technology Dharwad
 
 This repository is based on the project report:
 
-**“Mamba Wavelet Reverse Diffusion for Underwater Image Enhancement”** :contentReference[oaicite:0]{index=0}
+**“Mamba Wavelet Reverse Diffusion for Underwater Image Enhancement”** 
 
 ---
 
