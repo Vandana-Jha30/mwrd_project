@@ -90,7 +90,7 @@ Advantages:
 - Better long-range feature learning
 
 <p align="center">
-  <img src="assets/camamba.png" width="75%">
+  <img src="assets/CAmamba.png" width="75%">
 </p>
 
 ---
